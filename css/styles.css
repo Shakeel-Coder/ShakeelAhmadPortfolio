@@ -996,9 +996,9 @@ img {
 }
 
 .footer_copy {
-    font-size: var(--smaller-font-size);
+    font-size: var(--small-font-size);
     text-align: center;
-    color: var(--text-color-light);
+    color: #000;
     margin-top: var(--mb-3);
 }
 
